@@ -1,4 +1,4 @@
-# Hi, I'm Prince  👋  
+# Hi, I'm Prince Monga👋  
 **AI Expert | Frontend Developer | Content Creator | Co-founder of VidiPixels**
 
 ---
