@@ -80,7 +80,7 @@
 - 💼 **LinkedIn**: [Prince Monga](https://www.linkedin.com/in/prince-monga-/)  
    Let’s connect and explore opportunities to grow and innovate together!  
 
-- 🌐 **Portfolio Website**: [princemonga.site]((https://www.princemonga.site)  
+- 🌐 **Portfolio Website**: [princemonga.site](https://www.princemonga.site)  
    Stay tuned for updates on my latest projects, blogs, and achievements!  
 
 
