@@ -1,68 +1,93 @@
-# Hey, I'm Prince Monga! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prince+Monga;Frontend+Developer+%7C+AI+Enthusiast;I+Build+Modern+Web+%26+AI+Apps;Welcome+to+My+GitHub!" />
+</p>
 
-**AI Enthusiast | Frontend Developer | Content Creator | Co-founder of VidiPixels**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prince-monga&label=Profile%20Views&color=0abde3&style=for-the-badge" />
+</p>
 
----
-
-## 🚀 **What I'm Working On**
-
-- 🧠 Building **AI-driven applications** to solve real-world problems with innovative tech.  
-- 💻 Crafting **responsive, high-performance websites** using **React.js**, **Next.js**, and **Tailwind CSS**.  
-- ✍️ Writing **blogs** on **AI**, **Machine Learning**, and **Frontend Development** to share knowledge.  
-- 🏬 Leading **VidiPixels**, overseeing **web development**, **SEO**, **video production**, and **graphic design**.  
-- ⚙️ Optimizing workflows for efficient project delivery and team productivity.  
-
----
-
-## 🌱 **What I'm Learning**
-
-- 🤖 Advanced **Generative AI** techniques and their applications.  
-- 📊 **Data analysis** with **Python (Pandas, NumPy)** and visualization tools like **Matplotlib**.  
-- 🌐 **Web 3.0** and **blockchain** for decentralized apps (dApps) and smart contracts.  
-- 🔍 **SEO strategies** to boost website visibility using tools like **Ahrefs** and **Google Analytics**.  
-- 🛠️ Integrating **AI features** (e.g., chatbots, recommendation systems) into web projects via APIs like **OpenAI** and **Hugging Face**.  
-
----
-
-## 🛠️ **Tech Stack**
-
-- **Frontend**: React.js, Next.js, Tailwind CSS, JavaScript, HTML, CSS  
-- **AI/ML**: Python, Pandas, NumPy, Matplotlib, Seaborn, AI APIs (OpenAI, Google Vision)  
-- **Tools**: Git, Google Analytics, Ahrefs, SEMRush, Strapi, Contentful  
-- **Others**: SEO, Web 3.0, Blockchain basics  
+<p align="center">
+  <a href="https://princemonga.site">
+    <img src="https://img.shields.io/badge/Website-princemonga.site-0abde3?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-Programming-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Prince_Monga-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🤝 **Looking to Collaborate On**
-
-- 📈 Growing the reach of my **AI/ML blogs** through digital marketing.  
-- 🌐 Partnering with **tech experts** to explore cutting-edge innovations.  
-
----
-
-## 💬 **Ask Me About**
-
-- 🌐 Building **dynamic, responsive websites** with modern frameworks.  
-- 🤖 The latest trends in **Artificial Intelligence** and practical use cases.  
-- 🧑‍🏫 Mentoring aspiring developers in **web development**.  
+## 🌗 Theme Mode
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prince-monga&show_icons=true&theme=default#gh-light-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prince-monga&show_icons=true&theme=radical#gh-dark-mode-only"/>
+</p>
 
 ---
 
-## 📬 **Connect With Me**
+# 👋 Hey, I’m Prince Monga  
 
-- 📩 **Email**: [princemonga421@gmail.com](mailto:princemonga421@gmail.com)  
-- 💼 **LinkedIn**: [Prince Monga](https://www.linkedin.com/in/prince-monga-/)  
-- 🌐 **Portfolio**: [princemonga.site](https://www.princemonga.site)  
+🚀 **Frontend Developer | AI Enthusiast | Content Creator | Co-Founder @ VidiPixels**
 
----
-
-## 😄 **Fun Facts**
-
-- ⚡ Turned a legacy site into a **React.js app** in just **7 days**, APIs and all!  
-- 🏞️ Find coding zen in **Jammu**’s hill stations.  
-- 🐞 Debugged a stubborn bug that stumped the team for days!  
-- 🐕 Love animals and see coding patterns in nature.  
+I build fast, modern, scalable web apps and AI-powered tools that solve real-world problems.
 
 ---
 
-**"Transforming code into meaningful solutions, one commit at a time."**
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prince-monga&theme=radical&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🌍 Visitor Heatmap
+
+<p align="center">
+  <img src="https://github-visitor-heatmap.vercel.app/api?username=prince-monga&theme=react-dark" />
+</p>
+
+---
+
+## 🛠 Tech Arsenal
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,mysql,git,linux,wordpress)
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prince-monga&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-monga&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/user/prince-monga" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 Gemini AI Clone  
+- 🔹 SpaceLab  
+- 🔹 Jammu Hotel  
+- 🔹 MyStic Photography  
+
+---
+
+## 🤝 Let’s Build Something Amazing
+
+Looking for a **frontend developer**, **AI project partner**, or **web builder**?  
+📬 Let’s collaborate and create something powerful.
