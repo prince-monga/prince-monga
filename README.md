@@ -1,71 +1,55 @@
+<!-- HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prince+Monga;Frontend+Developer+%7C+AI+Enthusiast;I+Build+Modern+Web+%26+AI+Apps;Welcome+to+My+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Prince+Monga;Frontend+Developer+%7C+AI+Enthusiast;I+Build+Modern+Web+%26+AI+Apps" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prince-monga&label=Profile%20Views&color=0abde3&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=prince-monga&label=Profile+Views&color=0abde3&style=flat" />
 </p>
 
 <p align="center">
-  <a href="https://princemonga.site">
-    <img src="https://img.shields.io/badge/Website-princemonga.site-0abde3?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-Programming-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Prince_Monga-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://princemonga.site">🌐 Website</a> |
+  <a href="mailto:your-email@example.com">📧 Email</a> |
+  <a href="#">💼 LinkedIn</a> |
+  <a href="#">📺 YouTube</a>
 </p>
 
 ---
 
-## 🌗 Theme Mode
+## 👋 About Me
+
+I’m **Prince Monga**, a frontend developer and AI enthusiast.  
+I build fast, modern, and scalable web apps using **React, Java, APIs, and AI tools**.
+
+🚀 Currently focused on **Full-Stack Development + AI**.
+
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince-monga&show_icons=true&theme=default#gh-light-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=prince-monga&show_icons=true&theme=radical#gh-dark-mode-only"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,mysql,git,linux,wordpress" />
 </p>
 
 ---
 
-# 👋 Hey, I’m Prince Monga  
+## 📊 GitHub Stats
 
-🚀 **Frontend Developer | AI Enthusiast | Content Creator | Co-Founder @ VidiPixels**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prince-monga&show_icons=true&theme=dark" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=prince-monga&theme=dark" width="48%" />
+</p>
 
-I build fast, modern, scalable web apps and AI-powered tools that solve real-world problems.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-monga&layout=compact&theme=dark" width="40%" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prince-monga&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 🌍 Visitor Heatmap
-
-<p align="center">
-  <img src="https://github-visitor-heatmap.vercel.app/api?username=prince-monga&theme=react-dark" />
-</p>
-
----
-
-## 🛠 Tech Arsenal
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,mysql,git,linux,wordpress)
-
----
-
-## 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prince-monga&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-monga&layout=compact&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=prince-monga&theme=onedark&no-frame=true" />
 </p>
 
 ---
@@ -80,14 +64,14 @@ I build fast, modern, scalable web apps and AI-powered tools that solve real-wor
 
 ## 🚀 Featured Projects
 
-- 🔹 Gemini AI Clone  
-- 🔹 SpaceLab  
-- 🔹 Jammu Hotel  
-- 🔹 MyStic Photography  
+- **Gemini AI Clone** – React + API  
+- **SpaceLab** – Animated Website  
+- **Jammu Hotel** – Hotel Booking System  
+- **MyStic Photography** – Marketing Website  
 
 ---
 
-## 🤝 Let’s Build Something Amazing
+## 🤝 Let’s Connect
 
-Looking for a **frontend developer**, **AI project partner**, or **web builder**?  
-📬 Let’s collaborate and create something powerful.
+If you need a **frontend developer**, **AI collaborator**, or **web builder**,  
+feel free to reach out — I’m open to collaborations and opportunities.
