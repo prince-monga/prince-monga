@@ -46,21 +46,6 @@ I build fast, modern, and scalable web apps using **React, Java, APIs, and AI to
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prince-monga&theme=onedark&no-frame=true" />
-</p>
-
----
-
-## 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/user/prince-monga" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
