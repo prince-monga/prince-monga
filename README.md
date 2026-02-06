@@ -32,17 +32,17 @@ I build fast, modern, and scalable web apps using **React, Java, APIs, and AI to
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prince-monga&show_icons=true&theme=dark" width="48%" />
   <img src="https://streak-stats.demolab.com?user=prince-monga&theme=dark" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-monga&layout=compact&theme=dark" width="40%" />
-</p>
+</p> -->
 
 ---
 
