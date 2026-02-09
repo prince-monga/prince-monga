@@ -17,7 +17,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prince-monga&label=TERMINAL+VISITORS&color=00FF88&style=flat-square&labelColor=0D1117" alt="Terminal Visitors" />
-  <img src="https://wakatime.com/badge/user/current.svg?style=flat-square&color=00FF88&labelColor=0D1117" alt="Wakatime" />
+
   <img src="https://img.shields.io/github/followers/prince-monga?style=flat-square&color=00FF88&label=FOLLOWERS&labelColor=0D1117" alt="Followers" />
 </div>
 
@@ -175,20 +175,7 @@ public class QuantumATM {
 
 ## 🚀 **𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄 𝐓𝐈𝐌𝐄𝐋𝐈𝐍𝐄**
 
-```mermaid
-timeline
-    title Cyber Evolution Timeline
-    section 2024 : Internship Era
-        Podosphere Technologies : Built 15+ features
-                            : Led dev team
-                            : Received FTO
-    section 2023 : Security Research
-        SmartATM : ATM Simulation
-        SecureAuth : IDS System
-    section 2022-Present : Academic Foundation
-        BCA : 8.4 CGPA
-        MCA : In Progress
-```
+
 
 **𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐌𝐢𝐬𝐬𝐢𝐨𝐧:** `Podosphere Technologies`  
 **𝐑𝐨𝐥𝐞:** Web Development Intern → Team Lead  
@@ -336,9 +323,7 @@ IyBZb3UndmUgZm91bmQgdGhlIEVhc3RlciBFZ2chIAojIFJlZGVlbSBjb2RlOiBQUklOQ0VfUk9DS1Nf
 
 </details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prince-monga/prince-monga/output/snake-dark.svg" alt="Snake Game" />
-</p>
+
 
 <p align="center">
   <i>"In a world of ones and zeros, I craft digital symphonies."</i>
