@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  ![Matrix](https://img.shields.io/badge/Matrix-00FF88?style=for-the-badge&logo=matrix&logoColor=black)
+
   ![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=java&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
