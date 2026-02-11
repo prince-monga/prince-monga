@@ -254,14 +254,11 @@ while(true) {
   <a href="mailto:princemonga421@gmail.com">
     <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-00FF88?style=for-the-badge&logo=protonmail&logoColor=black" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/prince-monga">
+  <a href="https://linkedin.com/in/prince-monga-">
     <img src="https://img.shields.io/badge/PROFESSIONAL_NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/princemonga/">
     <img src="https://img.shields.io/badge/ALGORITHM_ARENA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="tel:+919518219823">
-    <img src="https://img.shields.io/badge/SECURE_LINE-25D366?style=for-the-badge&logo=signal&logoColor=white" alt="Signal" />
   </a>
 </p>
 
